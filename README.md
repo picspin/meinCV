@@ -1,5 +1,4 @@
 # CURRICULUM VITAE  
-=======   
 - - - - 
 #### A. GENERAL INFORMATION  
 
