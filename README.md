@@ -1,5 +1,4 @@
-# meinecv
-CURRICULUM VITAE  
+# CURRICULUM VITAE  
 =======   
 - - - - 
 #### A. GENERAL INFORMATION  
