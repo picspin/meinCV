@@ -39,23 +39,33 @@ CURRICULUM VITAE
 - Responsibilties:  Agile & scrum coach and consultation for Global Imaging workflow & Liver & Prostate chapters
 - - - -  
 - Dates:    *09/2022-03/2023*
-- employer:  *Bayer AG*
+- employer:  *Bayer ASEAN*
 - Title:		*Marketing Associate*			
 - department and location:    *Bayer Radiology APAC*  
 - Base: Singapore, Singapore 
 - Responsibilties:  portfolio solution designing & execution for MRI brand market transformation
 - - - -  
-- Dates:    *01/2018-9/2021*
+- Dates:    *09/2021-9/2022*
+- employer:  *Bayer Healthcare China*
+- Title:		*Digital Solution Manager, 	
+- department and location:    *Bayer Radiology, China* 
+- Base: Guangzhou, China
+- Responsibilities: Initiating marketing strategies and digital platform product roadmaps in China		
+
+- - - -  
+- Dates:    *01/2018-09/2021*
 - employer:  *Bayer Healthcare China*
 - Title:		*Application Expert, role as sales representive in charges of 5 Guangzhou hospitals during 03/21~09/21 at the same time*			
 - department and location:    *Bayer Radiology, China* 
 - Base: Guangzhou, China
+- Responsibilities: scientific & technical support with regards to internal & external, initiating innovative projects for new business solution and driving sales figure increasing  
 - - - -  
-- Dates:    *9/2015-12/2017*
+- Dates:    *09/2015-12/2017*
 - Employer: *Siemens Healthineers*
 - Position:		*Scientific Specialist*			
 - Department and location:    *MR BU Scientific Marketing*    
-- Base: Guangzhou, Guangdong
+- Base: Guangzhou, Guangdong 
+- Responsibilities: Marketing promotion, scientific support for customers, including technical support, scientific writing and so on; Novel product developmentand including WIP projects implementation in China   
 - - - -   
 - Dates:     *08/2010-09/2011*
 - Title:		*Assitant Lecturer*   
