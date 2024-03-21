@@ -23,54 +23,56 @@ CURRICULUM VITAE
 
 #### ⚕︎ Work Experiences
 
-(In chronological order beginning with current position, contains dates held and full title. )
-- Dates:    *03/2023-present*
-- employer:  *Bayer AG*
-- Title:		*Digital Solution Brand Management Manager*  		
-- department and location:    *Bayer Radiology Global* 
-- Base: Berlin, Germany 
-- Responsibilties: Radiology Digital Platform business Intelligence, Brand marketing strategies & analysis
+(In chronological order beginning with current position, contains dates held and full title. )   
+- - - -   
+- Dates:    *03/2023-present*  
+- employer:  *Bayer AG*  
+- Role:		*Digital Solution Brand Management Manager*  
+- department and location:    *Bayer Radiology Global*  
+- Base: Berlin, Germany  
+- Responsibilties: Radiology Digital Platform business Intelligence, Brand marketing strategies & analysis  
 - - - -  
 - Dates:    *09/2022-03/2023*
 - employer:  *Bayer AG*
-- Title:		*Radiology Solution Marketing manager*			
+- Role:		*Radiology Solution Marketing manager*			
 - department and location:    *Bayer Radiology Global*  
 - Base: Berlin, Germany 
 - Responsibilties:  Agile & scrum coach and consultation for Global Imaging workflow & Liver & Prostate chapters
 - - - -  
-- Dates:    *09/2022-03/2023*
-- employer:  *Bayer ASEAN*
+- Dates:    *12/2021-08/2022*
+- employer:  *Bayer AG*
 - Title:		*Marketing Associate*			
 - department and location:    *Bayer Radiology APAC*  
 - Base: Singapore, Singapore 
 - Responsibilties:  portfolio solution designing & execution for MRI brand market transformation
 - - - -  
-- Dates:    *09/2021-9/2022*
+- Dates:    *01/2021-12/2021*
 - employer:  *Bayer Healthcare China*
-- Title:		*Digital Solution Manager, 	
+- Role:		*Digital Solution Manager, 	
 - department and location:    *Bayer Radiology, China* 
 - Base: Guangzhou, China
 - Responsibilities: Initiating marketing strategies and digital platform product roadmaps in China		
 
 - - - -  
-- Dates:    *01/2018-09/2021*
+- Dates:    *01/2018-01/2021*
 - employer:  *Bayer Healthcare China*
-- Title:		*Application Expert, role as sales representive in charges of 5 Guangzhou hospitals during 03/21~09/21 at the same time*			
+- Role:		*Application Expert, role as sales representive in charges of 5 Guangzhou hospitals during 03/21~09/21 at the same time*			
 - department and location:    *Bayer Radiology, China* 
 - Base: Guangzhou, China
 - Responsibilities: scientific & technical support with regards to internal & external, initiating innovative projects for new business solution and driving sales figure increasing  
 - - - -  
 - Dates:    *09/2015-12/2017*
 - Employer: *Siemens Healthineers*
-- Position:		*Scientific Specialist*			
+- Role:		*Scientific Specialist*			
 - Department and location:    *MR BU Scientific Marketing*    
 - Base: Guangzhou, Guangdong 
 - Responsibilities: Marketing promotion, scientific support for customers, including technical support, scientific writing and so on; Novel product developmentand including WIP projects implementation in China   
 - - - -   
 - Dates:     *08/2010-09/2011*
-- Title:		*Assitant Lecturer*   
-- Institution name and location       *Hubei Polytechnic University, Hubei,  China*  
-- Huangshi, Hubei
+- Role:		*Assitant Lecturer*   
+- Institution name:       *Hubei Polytechnic University, Hubei,  China*  
+- Base: Huangshi, Hubei   
+
 ------  
 
 #### &#x1F3C5; Certificate & Reputation (medical and scientific societies)
