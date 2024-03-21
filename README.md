@@ -83,11 +83,11 @@ CURRICULUM VITAE
   | fellow         |   Chinese Society of Imaging Technology   | 2017-2020 |    
 ------
 #### 🔭 Professional Strengthens & Skills:     
-> Expertise in medical physics, biomedical engineering, including ==MR Physics & Molecular imaging==, skilled at *MR sequence application & development*, *medical imaging post process* & *data analysis*, software development skills including ==programme on *Matlab*, *Python*, *R* by leveraging machine learning, deep learning,etc==; ==Well-trained scientific writer & researcher== with rich *scientific research experiences, publications, patents & code projects as listed below   
+> Expertise in medical physics, biomedical engineering, including **MR Physics & Molecular imaging**, skilled at *MR sequence application & development*, *medical imaging post process* & *data analysis*, software development skills including **programme on *Matlab*, *Python*, *R* by leveraging machine learning, deep learning,etc**; **Well-trained scientific writer & researcher** with rich *scientific research experiences, publications, patents & code projects as listed below   
 
-> Marketing research & figure analysis by ==data sciences insights==;  marketing strategies & product roadmap designing and development,based on ==business-driven thinking & customer oriented perspective==  
+> Marketing research & figure analysis by **data sciences insights**;  marketing strategies & product roadmap designing and development,based on **business-driven thinking & customer oriented perspective**  
 
-> ==strong collaboration capability & communication skill==; clinical & technologies oriented; acclaimed customer reputation, honored as specific consultation & society fellow  
+> **Strong collaboration capability & communication skill**; clinical & technologies oriented; acclaimed customer reputation, honored as specific consultation & society fellow  
 
 
 ------  
