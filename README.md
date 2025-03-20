@@ -4,7 +4,7 @@ CURRICULUM VITAE
 #### 🆔 GENERAL INFORMATION 
 
 - _Name:                  Xiaolei Zhu, PhD_
-- _Address:               Wedding, Berlin, Germany,13353_
+- _Address:               Guangzhou, Canton, China,510168_
 - _Email:                  xiaolei.zhu@bayer.com_  
 - _priv.:                  zxl1412@gmail.com_        
 - _Tel.#:                   +49 15203046915(DE); +86 18607106505(CN)_
@@ -16,7 +16,7 @@ CURRICULUM VITAE
 |Degree| Major & Direction |               Institution                |Date Attended | Year Awarded |
 | :----- | :----- | :--------------------------------------: |  :-----------: | :----------: |
 |Ph.D. | MR imaging & Molecular imaging application & Development| Chinese Academy of Science, Wuhan Insititute of Physics and Mathematics |   2011-2015   |     2015     |
-|M.S. | Analytical Chemistry| Chinese Academy of Sciences |   2007-2009   |     2009     |
+|M.S. | Analytical Chemistry| Guizhou University |   2007-2009   |     2009     |
 |B.S.   | Chemical engineering |   Wuhan Institute of Technology       |   2003-2007   |     2007     |    
 
 ------
@@ -25,12 +25,19 @@ CURRICULUM VITAE
 
 (In chronological order beginning with current position, contains dates held and full title. )   
 - - - -   
-- Dates:    *03/2023-present*  
+- Dates:    *05/2024-present*  
+- employer:  *Bayer AG*  
+- Role:		*Senior Clinical Application Manager*  
+- department and location:    *Bayer Healthcare*  
+- Base: Guangzhou, China  
+- Responsibilties: Initiating & Operating clinical development for Bayer radiology products promotion & access, building products based disease solution as potofolio to win the business developing new business model 
+- - - -  
+- Dates:    *03/2023-05/2024*  
 - employer:  *Bayer AG*  
 - Role:		*Digital Solution Brand Management Manager*  
 - department and location:    *Bayer Radiology Global*  
 - Base: Berlin, Germany  
-- Responsibilties: Radiology Digital Platform business Intelligence, Brand marketing strategies & analysis  
+- Responsibilties: Spearheaded the curation and strategic development of Bayer's Radiology digital platform, leveraging Google Cloud for enhanced business intelligence and data-driven decision-making. 
 - - - -  
 - Dates:    *09/2022-03/2023*
 - employer:  *Bayer AG*
