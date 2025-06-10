@@ -4,7 +4,7 @@ CURRICULUM VITAE
 #### 🆔 GENERAL INFORMATION 
 
 - _Name:                  Xiaolei Zhu, PhD_
-- _Address:               Guangzhou, Canton, China,510168_
+- _Address:               Guangzhou, Guangdong, China,510168_
 - _Email:                  xiaolei.zhu@bayer.com_  
 - _priv.:                  zxl1412@gmail.com_        
 - _Tel.#:                   +49 15203046915(DE); +86 18607106505(CN)_
@@ -16,7 +16,6 @@ CURRICULUM VITAE
 |Degree| Major & Direction |               Institution                |Date Attended | Year Awarded |
 | :----- | :----- | :--------------------------------------: |  :-----------: | :----------: |
 |Ph.D. | MR imaging & Molecular imaging application & Development| Chinese Academy of Science, Wuhan Insititute of Physics and Mathematics |   2011-2015   |     2015     |
-|M.S. | Analytical Chemistry| Guizhou University |   2007-2009   |     2009     |
 |B.S.   | Chemical engineering |   Wuhan Institute of Technology       |   2003-2007   |     2007     |    
 
 ------
@@ -25,58 +24,63 @@ CURRICULUM VITAE
 
 (In chronological order beginning with current position, contains dates held and full title. )   
 - - - -   
-- Dates:    *05/2024-present*  
-- employer:  *Bayer AG*  
-- Role:		*Senior Clinical Application Manager*  
-- department and location:    *Bayer Healthcare*  
-- Base: Guangzhou, China  
-- Responsibilties: Initiating & Operating clinical development for Bayer radiology products promotion & access, building products based disease solution as potofolio to win the business developing new business model 
-- - - -  
-- Dates:    *03/2023-05/2024*  
-- employer:  *Bayer AG*  
-- Role:		*Digital Solution Brand Management Manager*  
-- department and location:    *Bayer Radiology Global*  
-- Base: Berlin, Germany  
-- Responsibilties: Spearheaded the curation and strategic development of Bayer's Radiology digital platform, leveraging Google Cloud for enhanced business intelligence and data-driven decision-making. 
-- - - -  
-- Dates:    *09/2022-03/2023*
-- employer:  *Bayer AG*
-- Role:		*Radiology Solution Marketing manager*			
-- department and location:    *Bayer Radiology Global*  
-- Base: Berlin, Germany 
-- Responsibilties:  Agile & scrum coach and consultation for Global Imaging workflow & Liver & Prostate chapters
-- - - -  
-- Dates:    *12/2021-08/2022*
-- employer:  *Bayer AG*
-- Title:		*Marketing Associate*			
-- department and location:    *Bayer Radiology APAC*  
-- Base: Singapore, Singapore 
-- Responsibilties:  portfolio solution designing & execution for MRI brand market transformation
-- - - -  
-- Dates:    *01/2021-12/2021*
-- employer:  *Bayer Healthcare China*
-- Role:		*Digital Solution Manager, 	
-- department and location:    *Bayer Radiology, China* 
-- Base: Guangzhou, China
-- Responsibilities: Initiating marketing strategies and digital platform product roadmaps in China		
-
-- - - -  
-- Dates:    *01/2018-01/2021*
-- employer:  *Bayer Healthcare China*
-- Role:		*Application Expert, role as sales representive in charges of 5 Guangzhou hospitals during 03/21~09/21 at the same time*			
-- department and location:    *Bayer Radiology, China* 
-- Base: Guangzhou, China
-- Responsibilities: scientific & technical support with regards to internal & external, initiating innovative projects for new business solution and driving sales figure increasing  
-- - - -  
-- Dates:    *09/2015-12/2017*
-- Employer: *Siemens Healthineers*
-- Role:		*Scientific Specialist*			
-- Department and location:    *MR BU Scientific Marketing*    
-- Base: Guangzhou, Guangdong 
-- Responsibilities: Marketing promotion, scientific support for customers, including technical support, scientific writing and so on; Novel product developmentand including WIP projects implementation in China   
+#### **Senior Application Manager**  
+**Bayer Healthcare China** (05/2024 - Present) | Guangzhou, China
+- Spearheaded clinical development initiatives for Bayer radiology products, building comprehensive disease-based solutions to drive business growth, building products based disease solution as potofolio to drive business growth.
+- Developed innovative business models, offering comprehensive clinical application and scientific services to clients.  
+- Resourcing to build clinical [digital tools](https://github.com/picspin) such as ROICalc, Thermostat,etc for customers to boost business & AI Agentic training chatbox for improve internal communication by leveraging RAG methodology
+#### **Digital Solution Brand Management Manager**  
+**Bayer AG - Bayer Radiology Global** (03/2023 - 05/2024) | Berlin, Germany  
+  
+- Curated and strategic developed Bayer's Radiology digital marketing research platform, leveraging Google Cloud for enhanced business intelligence and data-driven decision-making.    
+  
+- Lead the digital health portfolio strategy for AI-driven medical imaging solutions, integrating cutting-edge technology into preclinical research pipelines. 
+  
+- Direct cross-functional initiatives, ensuring alignment of digital solutions with global portfolio management objectives in R&D.   
+  
+#### **Radiology Solution Marketing Associate Manager**  
+**Bayer AG - Bayer Radiology Global** (08/2022 - 02/2023) | Berlin, Germany   
+- agile and scrum operations, streamlining processes for the global imaging workflow across multiple radiology portfolios, including Liver & Prostate chapters. 
+  
+- Lead and Coordinate IAWS Pilot projects with regional commercial team across 21 countries to orchestrate the integration of software, medical devices and drug, resulting in improved operational efficiency and portfolio synergy.  
+  
+- Lead and launch Liver HCC A-map clinical project, aligning product roadmaps with market needs and business objectives across APAC & China.  
+  
+  
+#### **Radiology Marketing associate**  
+**Bayer APAC** (12/2021 - 07/2022) | Singapore, Singapore  
+  
+- Directed the portfolio solution design and execution for MRI brand market transformation in the APAC region, increasing market share and driving product adoption.   
+  
+- Developed and implemented marketing strategies that aligned with regional market demands and corporate goals, ensuring successful product launches and market penetration. 
+  
+#### **Digital Solution Manager (Concurrently)**  
+**Bayer AG - Bayer Radiology China** (01/2021 - 11/2021) | Guangzhou, China      
+- Led the creation and execution of digital platform product roadmaps, paving the way for future product implementations in the Chinese market.    
+  
+- Initiated innovative marketing strategies that positioned the company as a leader in digital solutions, resulting in increased market presence and competitive advantage.  
+  
+#### **Application Expert**  
+**Bayer AG - Bayer Radiology China** (01/2018 - 11/2021) | Guangzhou, China      
+  
+- scientific & technical support with regards to internal & external, initiating innovative projects for new business solution and driving sales figure increasing  
+  
+- Acted as a project leader, coordinating with multiple stakeholders to deliver successful outcomes on preclinical research initiatives. 
+  
+- Led customer-focused projects, enhancing service delivery and building strong client relationships.
+  
+#### **Scientific Specialist**  
+**Siemens Healthineers** (09/2015 - 12/2017) | Guangzhou, China  
+  
+- Collaborate with cross-functional teams in executing translational research initiatives from post clinical trials to marketing promotion.  
+  
+- Managed scientific marketing initiatives, providing technical support and driving the development of novel products.  
+  
+- Led the implementation of WIP projects in China, contributing to the advancement of MRI technologies and scientific research.
+  
 - - - -   
+#### **Assistant Lecturer**  
 - Dates:     *08/2010-09/2011*
-- Role:		*Assitant Lecturer*   
 - Institution name:       *Hubei Polytechnic University, Hubei,  China*  
 - Base: Huangshi, Hubei   
 
@@ -90,7 +94,7 @@ CURRICULUM VITAE
   | fellow         |   Chinese Society of Imaging Technology   | 2017-2020 |    
 ------
 #### 🔭 Professional Strengthens & Skills:     
-> Expertise in medical physics, biomedical engineering, including **MR Physics & Molecular imaging**, skilled at *MR sequence application & development*, *medical imaging post process* & *data analysis*, software development skills including **programme on *Matlab*, *Python*, *R* by leveraging machine learning, deep learning,etc**; **Well-trained scientific writer & researcher** with rich *scientific research experiences, publications, patents & code projects as listed below   
+> Expertise in medical physics, biomedical engineering, including **MR Physics & Molecular imaging**, skilled at *MR sequence application & development*, *medical imaging post process* & *data analysis*, software development skills including  **Data Science & AI:** AI Algorithms, Machine Learning, Deep Learning, CNN/FACN, MONAI, LLM, RAG, LangChain, **full stack programme on *R*, *Python*, *Matlab*, *SQL* and containerized technologies by leveraging cloud computing & data lake into ,etc**; **Well-trained scientific writer & researcher** with rich *scientific research experiences, publications, patents & code projects as listed below 
 
 > Marketing research & figure analysis by **data sciences insights**;  marketing strategies & product roadmap designing and development,based on **business-driven thinking & customer oriented perspective**  
 
@@ -103,37 +107,35 @@ CURRICULUM VITAE
 
 (Summarize [in chronological order] past research support and list the following for current extramural and intramural research achievements)
 - Projects during work:
-1. Involving Global Management Graduation Program - as a talent chosen by RAD Global leadership Team, joined for 3 years global rotation with multiple functional roles in different regions: in charges of connecting & driving the coordination and synchronous operation of multiple chains including sales & marketing, R&D, service support, customers exellences, and digtal solution business, from 2022 - 2024     
-2. Digital Solution business, leading & steering Chinese digital platform launch team, identify Chinese digital platform roadmap, readiness for the future product implementation; Pave the way for the global digital platforms launching and strategies. invest potential local AI products in China and build collaboration with them based on Bayer's future digital platform. 
-3. Responsible for the radiology's digital software, especially the radiation dose management software Radimetrics application & further development in China. Providing consultant & service support for Radimetrics to the customers; orchestrated with global digital solution team's strategies for Chinese software business launching & implementation.  
-4. Leading PV.AI workflow initiative and Dataset building collaboration (collaborated with Hospital & 3rd partner based on Primovist related project, research trial as phase I in China. 1 pitch publication on ISMRM2020, 4 Bayer IP Assets generation), 10/2018 - 12/2020
-5. Leading and developing DNN algorithms for contrast media's pharmacokinetic research -- a products related innovative AI project with Nanfang Hospital, University of Guangzhou Chinese Medicine  collaboration, 2 posters on Bayer R&D Science Conferences, Amsterdam, 2022 
-6. MONAI based Deep Vein Thrombosis diagnosis framwork project, collaborate with Guangzhou Medical University & Hospital, NVIDIA, 2021
-7. [Liver360](https://www.liver360.bayer.sg/) project for liver cancer disease promotion in APAC region, 2021
-8. As sales & application expert drove business figure above 2% MS increase for target clients by initiating scientific differentiation support project in Guangzhou, 2020 - 2021
-
-- projects during study:
-
-1.  **Young Scientist Fund, NSFC [No.21305156], 2012 - 2015**, Assisting on pulse sequence designing and MRI oepration, publicating papers and reports. [CCS]()     
-2. **Major Program of National NSFC[No.81227902], 2015-2016,** Protocol designing, MRI operation, and image post processing. [source code](https://github.com/pniedbalski3/All_in_one_Xenon_Analysis)
-3. **Chinese National Fund, NSFC[No.81625011], 2014-2016** Assisting on Pulse sequence designing, MRI operation, and image post process [source code](https://github.com/LarsonLab/hyperpolarized-mri-toolbox) 
-4. **Young Scientist Fund, NSFC [No.21475147], 2014-2015** Assisting on MRI operation, and image post process 
+1. **Involving Global Management Graduation Program** - as a talent chosen by RAD Global leadership Team, joined for 3 years global rotation with multiple functional roles in different regions: in charges of connecting & driving the coordination and synchronous operation of multiple chains including sales & marketing, R&D, service support, customers exellences, and digtal solution business, from 2022 - 2024     
+2. **Digital Solution business**, leading & steering Chinese digital platform launch team, identify Chinese digital platform roadmap, readiness for the future product implementation; Pave the way for the global digital platforms launching and strategies. invest potential local AI products in China and build collaboration with them based on Bayer's future digital platform. 
+3. **AI-Powered Marketing Research** Launched marketing research and orchestrated marketplace intelligence by utilizing LLM and Generative AI models, leveraging prompt engineering for content generation and RAG/LangChain for knowledge base maximization.  
+4. **Radimetrics Application & Development** Responsible for the radiology's digital software, especially the radiation dose management software Radimetrics application & further development in China. Providing consultant & service support for Radimetrics to the customers; orchestrated with global digital solution team's strategies for Chinese software business launching & implementation.  
+5. **AI-Driven Clinical Trial Co-creation:**  Built AI efficiency solution for Bayer products by leveraging cutting-edge AI technologies (CNN/FACN). Proposed and initiated innovative clinical trials, with publications and presentations at international conferences.  
+6.  **Global Digital Solution Ecosystem Curation:** Collaborated with 3rd party vendors to curate disease-oriented AI marketplaces, integrating GPT and Meta LLM2/LLM3 into routine marketing business.
+7. Leading PV.AI workflow initiative and Dataset building collaboration (collaborated with Hospital & 3rd partner based on Primovist related project, research trial as phase I in China. 1 pitch publication on ISMRM2020, 4 Bayer IP Assets generation), 10/2018 - 12/2020
+8. **Cloud-Based Imaging Service:** Initiated cloud/On-prem based diagnosis imaging service and digital health service for clinical trials, collaborating with Tencent Cloud and Tencent Miying.Inc. 
+9. **Crossfunctional Platforming capabilities** Good relationship with Research institues, Universities & Hospitals, IT partners to build business platform/ecosystem: coorperate with NVIDIA Inc, Tencent, some start-ups, etc. to build platform overarchingly eg. NVIDIA MONAI-based Deep Vein Thrombosis diagnosis framework collaborated with Guangzhou Medical University & Hospitals, etc. 
+10. **Scientific Differentiation Support:** Drove business figure increases for target clients by initiating scientific differentiation support projects. eg. Leading and developing DNN algorithms for contrast media's pharmacokinetic research -- a products related innovative AI project with Nanfang Hospital, University of Guangzhou Chinese Medicine  collaboration, 2 posters on Bayer R&D Science Conferences, Amsterdam, 2022 
+11. **digital marketing & platform marketing**  Co-created and launched the digital [Liver360](https://www.liver360.bayer.sg/) project for liver cancer disease promotion in APAC region, 2021 
+12. **Business driven & Commercial Insights**: As sales & application expert drove business figure above 2% MS increase for target clients by initiating scientific differentiation support project in Guangzhou, 2020 - 2021 
+13.  **Preclinical & Post Clinical Research:** Initiated several preclinical & post clinical MR imaging & Contrast media research pilots with 50+ hospitals, generating peer-reviewed publications.
 
 
 #### &#x1F4CA; Publications
 
 Peer reviewed papers
-1. Chen Y, Li X, Song Y, **Zhu X**, Zhao J, Yan X, Wang J, Fan M, Chu J. The diagnostic efficacy of amide proton transfer imaging in grading gliomas and predicting tumor proliferation. [Neuroreport. 2019 Jan 16;30(2):139-144](https://journals.lww.com/neuroreport/abstract/2019/01020/the_diagnostic_efficacy_of_amide_proton_transfer.15.aspx)    
-2. Cui Y, Cao Y, Song J, Dong N, Kong X, Wang J, Yuan Y, **Zhu X**, Yan X, Greiser A, Shi H, Han P. Association between myocardial extracellular volume and strain analysis through cardiovascular magnetic resonance with histological myocardial fibrosis in patients awaiting heart transplantation. [J Cardiovasc Magn Reson. 2018 Apr 23; 20(1): 25](https://doi.org/10.1186/s12968-018-0445-z)    
+1. Chen Y, Li X, Song Y, **Zhu X**, Zhao J, Yan X, Wang J, Fan M, Chu J. The diagnostic efficacy of amide proton transfer imaging in grading gliomas and predicting tumor proliferation. [Neuroreport. 2019 Jan 16;30(2):139-144](https://journals.lww.com/neuroreport/abstract/2019/01020/the_diagnostic_efficacy_of_amide_proton_transfer.15.aspx)
+2. . Cui Y, Cao Y, Song J, Dong N, Kong X, Wang J, Yuan Y, **Zhu X**, Yan X, Greiser A, Shi H, Han P. Association between myocardial extracellular volume and strain analysis through cardiovascular magnetic resonance with histological myocardial fibrosis in patients awaiting heart transplantation. [J Cardiovasc Magn Reson. 2018 Apr 23; 20(1): 25](https://doi.org/10.1186/s12968-018-0445-z)
 3. Wu B, Lu ST, Yu H, Liao RF, Li H, Lucie Zafitatsimo BV, Li YS, Zhang Y, **Zhu XL**, Liu HG, Xu HB, Huang SW, Cheng Z. Gadolinium-chelate functionalized bismuth nanotheranostic agent for in vivo MRI/CT/PAI imaging-guided photothermal cancer therapy. [Biomaterials. 2018 Mar;159:37-47](https://doi.org/10.1016/j.biomaterials.2017.12.022)  
 4. Huang WY, Li MM, Lin SM, Chen F, Yang K, **Zhu XL**, Wu G, Li JJ. In Vivo Imaging Markers for Prediction of Radiotherapy Response in Patients with Nasopharyngeal Carcinoma: RESOLVE DWI versus DKI. [Sci Rep. 2018 Oct 26;8(1):15861.](https://doi.org/10.1038/s41598-018-34072-9)    
-5. Weiyuan Huang, Wu Gang , Meng-meng Li , Feng Chen , Shao-min Lin , Kai Yang , Ying-man Zhao , **Xiao-lei Zhu** , Jian-Jun Li. [Oncotarget 2017 Aug 2;8(38)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5630398/)    
+5. Weiyuan Huang, Wu Gang , Meng-meng Li , Feng Chen , Shao-min Lin , Kai Yang , Ying-man Zhao , **Xiao-lei Zhu** , Jian-Jun Li. [Oncotarget 2017 Aug 2;8(38)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5630398/)   
 6. Wu G, Xie R, Zhang X, Morelli J, Yan X, **Zhu X**, Li X., The Diagnostic Value of 3-Dimensional Sampling Perfection With Application Optimized Contrasts Using Different Flip Angle Evolutions (SPACE) MRI in Evaluating Lower Extremity Deep Venous Thrombus. [Invest Radiol. 2017 Jul 12](https://doi.org/10.1097/RLI.0000000000000399)   
 7. Xiang Z, Ai Z, Liang J, Li G, **Zhu X**, Yan X. Evaluation of Regional Variability and Measurement Reproducibility of Intravoxel Incoherent Motion Diffusion Weighted Imaging Using a Cardiac Stationary Phase Based ECG Trigger Method. [Biomed Res Int. 2018 Apr 17;2018:4604218](https://doi.org/10.1155/2018/4604218)  
 8. Xu X, Lin X, Huang J, Pan Z, **Zhu X**, Chen K, Zee CS, Yan F., The capability of inflow inversion recovery magnetic resonance compared to contrast-enhanced magnetic resonance in
 renal artery angiography. [Abdom Radiol (NY). 2017 May 3.](https://doi.org/10.1007/s00261-017-1161-0)     
-1. Zhang W, Jin X, Ding Y, Zhu X, Rong N, Li J, S. Composition of phosphorus in wetland soils determined by SMT and solution 31P-NMR analyses. [Environ Sci Pollut Res Int. 2016 May;23(9):9046-53](https://pubmed.ncbi.nlm.nih.gov/26832861/) 
-1.  **Zhu X**, Chen S, Luo Q, Ye C, Liu M, Zhou X. Body temperature sensitive micelles for MRI enhancement. [Chem Commun (Camb).2015 Jun 4;51(44):9085-8. ](https://doi.org/10.1002/anie.201007105) 
+9. Zhang W, Jin X, Ding Y, Zhu X, Rong N, Li J, S. Composition of phosphorus in wetland soils determined by SMT and solution 31P-NMR analyses. [Environ Sci Pollut Res Int. 2016 May;23(9):9046-53](https://pubmed.ncbi.nlm.nih.gov/26832861/) 
+10.  **Zhu X**, Chen S, Luo Q, Ye C, Liu M, Zhou X. Body temperature sensitive micelles for MRI enhancement. [Chem Commun (Camb).2015 Jun 4;51(44):9085-8. ](https://doi.org/10.1002/anie.201007105) 
 
 Peer reviewed Meeting Abstracts   
 
@@ -152,7 +154,3 @@ PATENT
 1. CHINESE PATENT: 201510063559.3. Zhou Xin; __Zhu Xiaolei__; Chen Shizhen; Sun Xianping; Liu Maili; [source](https://patents.google.com/patent/CN104623697A/en)
 
 -------------------
-
-
-
-
